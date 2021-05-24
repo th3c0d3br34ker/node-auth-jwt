@@ -16,8 +16,8 @@ If you notice there are periods `.` in the token, JWT seperates out the encoded 
 ### Clone Repository
 
 ```code
-git clone https://github.com/th3c0d3br34ker/ColorGame.git
-cd ColorGame
+git clone https://github.com/th3c0d3br34ker/node-auth-jwt.git
+cd node-auth-jwt
 ```
 
 ### Installation AND Run
